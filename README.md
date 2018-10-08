@@ -1,5 +1,5 @@
 # DOCKERIZED
-#  Dockerized web application for image recognition using NodeJS, MongoDB, TF, GCP
+#  Dockerized ML web application for image recognition using NodeJS, MongoDB, TF, GCP
 
 
 ![alt text](https://github.com/sunsuntianyi/webapp/blob/master/demo1.png)
